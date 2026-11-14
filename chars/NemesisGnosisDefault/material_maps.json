@@ -1,0 +1,24 @@
+{
+  "defaultPreset": "lobby",
+  "c_nemesisgnosisssr01_slg_body_da.png": {
+    "normal": "maps/c_nemesisgnosisssr01_slg_body_da_n.png"
+  },
+  "c_NemesisGnosisSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_NemesisGnosisSSR01_slg_cloth1_d_n.png"
+  },
+  "c_NemesisGnosisSSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_NemesisGnosisSSR01_slg_cloth2_d_n.png"
+  },
+  "c_NemesisGnosisSSR01_slg_cloth4_d.png": {
+    "normal": "maps/c_NemesisGnosisSSR01_slg_cloth4_d_n.png"
+  },
+  "c_NemesisGnosisSSR01_slg_cloth5_da.png": {
+    "normal": "maps/c_NemesisGnosisSSR01_slg_cloth5_da_n.png"
+  },
+  "c_NemesisGnosis_slg_hair_d.png": {
+    "normal": "maps/c_NemesisGnosis_slg_hair_d_n.png"
+  },
+  "c_NemesisGnosisSSR01_slg_cloth3_da.png": {
+    "normal": "maps/c_NemesisGnosisSSR01_slg_cloth3_da_n.png"
+  }
+}

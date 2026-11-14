@@ -1,0 +1,12 @@
+{
+  "defaultPreset": "lobby",
+  "c_VectorSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_VectorSSR01_slg_cloth1_d_n.png"
+  },
+  "c_VectorSSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_VectorSSR01_slg_cloth2_d_n.png"
+  },
+  "c_VectorSSR01_slg_weapon_d.png": {
+    "normal": "maps/c_VectorSSR01_slg_weapon_d_n.png"
+  }
+}

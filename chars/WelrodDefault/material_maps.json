@@ -1,0 +1,22 @@
+{
+  "defaultPreset": "lobby",
+  "c_WelrodSSR01_slg_body_d.png": {
+    "normal": "maps/c_WelrodSSR01_slg_body_d_n.png"
+  },
+  "c_WelrodSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_WelrodSSR01_slg_cloth1_d_n.png"
+  },
+  "c_welrodssr01_slg_cloth2_da.png": {
+    "normal": "maps/c_welrodssr01_slg_cloth2_da_n.png"
+  },
+  "c_Welrod_slg_hair_d.png": {
+    "normal": "maps/c_Welrod_slg_hair_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cth1-Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

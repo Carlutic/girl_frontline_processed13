@@ -1,0 +1,55 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_SomiSSR0102_slg_P1_body_da.png": {
+    "normal": "maps/c_SomiSSR0102_slg_P1_body_da_n.png"
+  },
+  "c_SomiSSR0102_slg_P1_body_plush_d.png": {
+    "normal": "maps/c_SomiSSR0102_slg_P1_body_plush_d_n.png"
+  },
+  "c_SomiSSR0102_slg_P1_cloth1_d.png": {
+    "normal": "maps/c_SomiSSR0102_slg_P1_cloth1_d_n.png"
+  },
+  "c_SomiSSR0102_slg_P1_cloth2_da.png": {
+    "normal": "maps/c_SomiSSR0102_slg_P1_cloth2_da_n.png"
+  },
+  "c_SomiSSR0102_slg_P1_cloth3_da.png": {
+    "normal": "maps/c_SomiSSR0102_slg_P1_cloth3_da_n.png"
+  },
+  "c_SomiSSR0102_slg_P1_hip_d.png": {
+    "normal": "maps/c_SomiSSR0102_slg_P1_hip_d_n.png"
+  },
+  "c_SomiSSR0102_slg_cloth3_d.png": {
+    "normal": "maps/c_SomiSSR0102_slg_cloth3_d_n.png"
+  },
+  "c_SomiSSR0102_slg_P1_hip_plush_d.png": {
+    "normal": "maps/c_SomiSSR0102_slg_P1_hip_plush_d_n.png"
+  },
+  "c_SomiSSR0102_slg_cloth1_d.png": {
+    "normal": "maps/c_SomiSSR0102_slg_cloth1_d_n.png"
+  },
+  "c_SomiSSR0102_slg_plush_d.png": {
+    "normal": "maps/c_SomiSSR0102_slg_plush_d_n.png"
+  },
+  "c_SomiSSR0102_slg_cloth2_d.png": {
+    "normal": "maps/c_SomiSSR0102_slg_cloth2_d_n.png"
+  },
+  "c_somissr0102_slg_cloth4_da.png": {
+    "normal": "maps/c_somissr0102_slg_cloth4_da_n.png"
+  },
+  "c_SomiSSR0102_slg_cloth5_da.png": {
+    "normal": "maps/c_SomiSSR0102_slg_cloth5_da_n.png"
+  },
+  "c_SuomiSSR01_slg_hair_d.png": {
+    "normal": "maps/c_SuomiSSR01_slg_hair_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks-Ribbon": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

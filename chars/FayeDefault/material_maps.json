@@ -1,0 +1,12 @@
+{
+  "defaultPreset": "lobby",
+  "c_FayeSSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_FayeSSR01_slg_cloth2_d_n.png"
+  },
+  "c_FayeSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_FayeSSR01_slg_cloth1_d_n.png"
+  },
+  "cw_FayeSR01_WL_d.png": {
+    "normal": "maps/cw_FayeSR01_WL_d_n.png"
+  }
+}
